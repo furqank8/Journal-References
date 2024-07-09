@@ -1,0 +1,87 @@
+\begin{thebibliography}{00}
+
+\bibitem{b1} Shanafelt, T. D., Dyrbye, L. N., Sinsky, C., et al. (2017). "Relationship between clerical burden and characteristics of the electronic environment with physician burnout and professional satisfaction." Mayo Clinic Proceedings, 91(7), 836-848.
+
+\bibitem{b2} Menachemi, N. , Collum, T. H. (2011). "Benefits and drawbacks of electronic health record systems." Risk Management and Healthcare Policy, 4, 47-55.
+
+\bibitem{b3} Hillestad, R., Bigelow, J., Bower, A., et al. (2005). "Can electronic medical record systems transform health care? Potential health benefits, savings, and costs." Health Affairs, 24(5), 1103-1117.
+
+\bibitem{b4} Bates, D. W., Ebell, M., Gotlieb, E., et al. (2003). "A proposal for electronic medical records in U.S. primary care." Journal of the American Medical Informatics Association, 10(1), 1-10.
+
+\bibitem{b5} Arndt, B. G., Beasley, J. W., Watkinson, M. D., et al. (2017). "Tethered to the EHR: Primary care physician workload assessment using EHR event log data and time-motion observations." Annals of Family Medicine, 15(5), 419-426.
+
+\bibitem{b6} Downing, N. L., Bates, D. W., Longhurst, C. A. (2018). "Physician burnout in the electronic health record era: Are we ignoring the real cause?" Annals of Internal Medicine, 169(1), 50-51.
+
+\bibitem{b7} Jiang, F., Jiang, Y., Zhi, H., et al. (2017). "Artificial intelligence in healthcare: Past, present and future." Stroke and Vascular Neurology, 2(4), 230-243.
+
+\bibitem{b8} Khan, F. A.,  Hajiarbabi, M. (2024). BERT-Driven Automation in Electronic Health Record Management System. SoutheastCon 2024, 398-404.
+
+%\bibitem{b80} Brown, T. B., Mann, B., Ryder, N., et al. (2020). "Language models are few-shot learners." Advances in Neural Information Processing Systems, 33, 1877-1901.
+
+\bibitem{b9} Touvron, H., Lavril, T., Izacard, G., et al. (2023). "LLaMA: Open and efficient foundation language models." arXiv preprint arXiv:2302.13971.
+
+\bibitem{b10} Topol, E. J. (2019). "High-performance medicine: the convergence of human and artificial intelligence." Nature Medicine, 25(1), 44-56.
+
+\bibitem{b11} Rajkomar, A., Dean, J., Kohane, I. (2019). "Machine learning in medicine." New England Journal of Medicine, 380(14), 1347-1358.
+
+\bibitem{b12} Esteva, A., Robicquet, A., Ramsundar, B., et al. (2019). "A guide to deep learning in healthcare." Nature Medicine, 25(1), 24-29.
+
+\bibitem{b13} Beam, A. L., Kohane, I. S. (2018). "Translating artificial intelligence into clinical care." JAMA, 320(12), 1317-1318.
+
+\bibitem{b14} Finley, G. P., et al. (2018). "An automated medical scribe for documenting clinical encounters." In Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 11-15.
+
+\bibitem{b15} Quiroz, J. C., Laranjo, L., Kocaballi, A. B., et al. (2020). Identifying relevant information in medical conversations to summarize a clinician-patient encounter. Health Informatics Journal, 26(4), 2906-2914.
+
+\bibitem{b16} Kanwal, N.,  Rizzo, G. (2022). Attention-based clinical note summarization. In Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing
+
+\bibitem{b17} Manas G, Aribandi V, Kursuncu U, et al., Knowledge-Infused Abstractive Summarization of Clinical Diagnostic Interviews: Framework Development Study. JMIR Ment Health. 2021 May 10;8(5):e20865. 
+
+\bibitem{b18} Quiroz, J.C., Laranjo, L., Kocaballi, A.B., et al. "Challenges of developing a digital scribe to reduce clinical documentation burden." npj Digital Medicine, vol. 2, p. 114, 2019. 
+
+\bibitem{b19} Itauma, Omosalewa  Itauma, Itauma. (2024). AI Scribes: Boosting Physician Efficiency in Clinical Documentation. International Journal on Bioinformatics, Biosciences. 14. 09-18. 10.5121/ijbb.2024.14102. 
+
+\bibitem{b20} Whisper AI. https://github.com/openai/whisper
+
+\bibitem{b21} Devlin, J., Chang, M. W., Lee, K., Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv:1810.04805.
+
+\bibitem{b22}Lee, J., Yoon, W., Kim, S., et al. (2020). BioBERT: a pre-trained biomedical language representation model for biomedical text mining. Bioinformatics, 36(4), 1234-1240.
+
+\bibitem{b23} Jiang M, Sanger T, Liu X. Combining Contextualized Embeddings and Prior Knowledge for Clinical Named Entity Recognition: Evaluation Study. JMIR Med Inform. 2019 Nov 13;7(4):e14850.
+
+\bibitem{b24} Nazmul Kazi and Indika Kahanda. "Automatically Generating Psychiatric Case Notes From Digital Transcripts of Doctor-Patient Conversations." In Proceedings of the 2nd Clinical Natural Language Processing Workshop, pages 140–148, Minneapolis, Minnesota, USA. Association for Computational Linguistics, 2019.
+
+\bibitem{b25} Jesse Wang, Marc Lavender, Ehsan Hoque, Patrick Brophy, and Henry Kautz, "A patient-centered digital scribe for automatic medical documentation," JAMIA Open, vol. 00, no. 0, pp. 1–9, 2021. doi: 10.1093/jamiaopen/ooab003. 
+
+
+\bibitem{b26}Wenceslao, S.J.M.C., Estuar, M.R.J.E. "Using cTAKES to Build a Simple Speech Transcriber Plugin for an EMR." In Proceedings of the 3rd International Conference on Medical and Health Informatics (ICMHI '19), May 2019, Pages 78–86. https://doi.org/10.1145/3340037.3340044.
+
+\bibitem{b27} Radford, A., Kim, J. W., Xu, T., Brockman, G., McLeavey, C., Sutskever, I. (2023, July). Robust speech recognition via large-scale weak supervision. In International Conference on Machine Learning (pp. 28492-28518). PMLR.
+
+\bibitem{b28} Maniar, K., Haque, S.,  Ramzan, K. (2022). Improving Clinical Efficiency and Reducing Medical Errors through NLP-enabled diagnosis of Health Conditions from Transcription Reports. arXiv:2206.13516.
+
+\bibitem{b29} Omiye, J. A., Gui, H., Rezaei, S. J., Zou, J., Daneshjou, R. (2024). Large Language Models in Medicine: The Potentials and Pitfalls: A Narrative Review. Annals of Internal Medicine, 177(2), 210-220.
+
+\bibitem{b30} Peng, C., Yang, X., Chen, A., Smith, K. E., PourNejatian, N., Costa, A. B., Wu, Y. (2023). A study of generative large language model for medical research and healthcare. NPJ Digital Medicine, 6(1), 210.
+
+\bibitem{b31} Okada, Y., Mertens, M., Liu, N., Lam, S. S. W.,  Ong, M. E. H. (2023). AI and machine learning in resuscitation: Ongoing research, new concepts, and key challenges. Resuscitation plus, 15, 100435.
+
+\bibitem{b32}  Karabacak, M., Margetis, K. (2023). Embracing large language models for medical applications: opportunities and challenges. Cureus, 15(5).
+
+\bibitem{b33} Singhal, K., Tu, T., Gottweis, J., Sayres, R., Wulczyn, E., Hou, L., Natarajan, V. (2023). Towards expert-level medical question answering with large language models. arXiv:2305.09617.
+
+\bibitem{b34} Cascella, M., Semeraro, F., Montomoli, J., Bellini, V., Piazza, O., Bignami, E. (2024). The Breakthrough of Large Language Models Release for Medical Applications: 1-Year Timeline and Perspectives. Journal of Medical Systems, 48(1), 1-11.
+
+\bibitem{b35} Ong, J. C. L., Jin, L., Elangovan, K., Lim, G. Y. S., Lim, D. Y. Z., Sng, G. G. R.,  Ting, D. S. W. (2024). Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties. arXiv:2402.01741.
+
+\bibitem{b36} Gradio. "Gradio" https://www.gradio.app/.
+
+\bibitem{b37} Littlejohn, R., Romero Barrientos, R., Boxley, C.,  Miller, K. (2021). Owning Attention: Applying Human Factors Principles to Support Clinical Decision Support. IntechOpen. doi: 10.5772/intechopen.92291
+
+\bibitem{b38}Pereira, M., Concheiro-Moscoso, P., López-Álvarez, A., Baños, G., Pazos, A.,  Pereira, J. (2021). Applicability of clinical decision support in management among patients undergoing cardiac surgery in intensive care unit: a systematic review. Applied Sciences, 11(6), 2880.
+
+
+\bibitem{b39} Miller, Randolph A. "Diagnostic decision support systems." Clinical decision support systems: Theory and practice (2016): 181-208.
+
+\bibitem{b40} Wan, Weixiang, et al. "Development and Evaluation of Intelligent Medical Decision Support Systems." Academic Journal of Science and Technology 8.2 (2023): 22-25.
+
+\bibitem{b41} PhysioNet. "MIMIC III and MIMIC IV Database." https://physionet.org/content/mimiciii/1.4/.
